@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "HomePage"
-  spec.version      = "0.1.0"
+  spec.version      = "0.1.1"
   spec.summary      = "HomePage Flutter编译后的文件"
   spec.homepage     = "https://github.com/wutongyu008/HomePage"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
